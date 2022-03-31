@@ -78,3 +78,5 @@ qeqwq
 Для перехода к ветке branch_name:
 > git checkout branch_name
 
+Для визуализации веток можно использовать:
+> git log
