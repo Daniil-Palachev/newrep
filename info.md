@@ -70,5 +70,6 @@
 Чтобы создать ветку, нужно:
 > git branch branch_name
 
-
+Для перехода к ветке branch_name:
+> git checkout branch_name
 
