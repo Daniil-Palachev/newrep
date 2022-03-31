@@ -74,4 +74,6 @@
 > git merge branch_name
 
 изменения добавятся в текущую
+Для перехода к ветке branch_name:
+> git checkout branch_name
 
