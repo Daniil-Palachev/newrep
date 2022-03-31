@@ -79,4 +79,4 @@ qeqwq
 > git checkout branch_name
 
 Для визуализации веток можно использовать:
-> git log
+> git log --graph
